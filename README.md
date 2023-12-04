@@ -44,10 +44,7 @@ El proyecto se encuentra actualmente en una fase b√°sica. Pronto se implementar√
 <table align="left" >
 <tr border="none">
     <td width="25%" align="center">
-        <img align="center" width=100% src="" alt="Software Administrativo" /></a>    
-    </td>
-    <td width="25%" align="center">
-        <img align="center" width=100% src="" alt="Software Administrativo" /></a>     
+        <img align="center" width=100% src="https://raw.githubusercontent.com/jaimescayetano/software-administrativo/master/img/Software%20Administrativo.png" alt="Software Administrativo" /></a>    
     </td>
 </tr>
 </table>
