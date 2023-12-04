@@ -2,11 +2,11 @@
 
 <h2>Proximamente</h2>
 <p align="left">
-El proyecto se actualmente se encuentra en una fase básica. Pronto se implementaran las siguientes caracteresticas:
+El proyecto se encuentra actualmente en una fase básica. Pronto se implementarán las siguientes características:
 
 - Implementación de funcionalidades CRUD a productos y clientes
 
-- Solucion al registro de fechas
+- Solución al registro de fechas
 
 - Mejoras de diseño
 </p>
