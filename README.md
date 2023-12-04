@@ -15,6 +15,7 @@ El proyecto se actualmente se encuentra en una fase básica. Pronto se implement
 <!--Intro start-->
 
 <p align="left">
+  
 - Registra productos
 
 - Muestra productos
