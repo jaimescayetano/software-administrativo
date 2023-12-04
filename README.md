@@ -1,6 +1,6 @@
 <h1>SOFTWARE ADMINISTRATIVO ✨ </h1> 
 
-<h2>Proximamente</h2>
+<h2>Próximamente</h2>
 <p align="left">
 El proyecto se encuentra actualmente en una fase básica. Pronto se implementarán las siguientes características:
 
